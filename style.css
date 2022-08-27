@@ -220,5 +220,10 @@ body {
         left: 40px;
     }
 }
+@-moz-document url-prefix() {
+    .content__main-btnsend img{
+        padding: 21px 50px;
+    }
+}
 
 
